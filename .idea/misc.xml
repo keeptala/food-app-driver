@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_deliveryguy_background.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_deliverytwo.xml" value="0.1" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_facedowngetstarted.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/drawable/ic_menu.xml" value="0.292" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/font/irish_grover.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_home.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_login.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_main.xml" value="0.3692708333333333" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_main_menu.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_profile.xml" value="0.37222222222222223" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_register.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/layout/activity_support.xml" value="0.203125" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/menu/bottom_nav_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/mipmap-anydpi-v26/ic_deliverytwo.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/mipmap-anydpi-v26/ic_deliverytwo_round.xml" value="0.2105" />
+        <entry key="..\:/Users/krasher/AndroidStudioProjects/FooddeliveryDriver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2105" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
